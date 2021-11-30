@@ -1,0 +1,4 @@
+Park 010-XXXX-XXXX
+Lee 010-YYYY-YYYY
+Kim 010-ZZZZ-ZZZZ
+db.txt lab2-0.sh lab2-1.sh lab2-2.sh lab2-3.sh lab2-4.sh lab2-8.sh lab2-9.sh My Friends
